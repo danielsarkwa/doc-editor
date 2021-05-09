@@ -30,3 +30,5 @@ Open [http://localhost:3001](http://localhost:3001)
 #### Database server
 
 [Download](https://www.mongodb.com/try/download/community) and install mongodb community server on your local machine to able to persist documents
+
+Remember to start mongoDB server if it is not running as a service
